@@ -1,2 +1,0 @@
-hola mundo :v
-ejercicios de kotlin
