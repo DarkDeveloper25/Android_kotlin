@@ -12,6 +12,10 @@ class Fundamentos {
     var altura: Double = 1.75
     var activo: Boolean = true
 
+    fun ejemploDataClass(){
+        val objProducto = Producto ("sony", 130.0, "001", 30, false)
+    }
+
     fun ejemplosLambda() {
         val numeros = arrayListOf(9, 10, 30, 40, 5)
         val numerosPares = numeros.filter { n -> n % 2 == 0 }

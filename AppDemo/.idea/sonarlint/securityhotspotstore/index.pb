@@ -13,3 +13,7 @@ _
 0app/src/main/java/pe/edu/idat/appdemo/Tiburon.kt,e\4\e425e4b7c7213a1d6ac37d740101e306254c6887
 `
 0app/src/main/java/pe/edu/idat/appdemo/IAnimal.kt,a\2\a2c464969336dad828c4ff9aeeb7f43b062d199d
+c
+3app/src/main/java/pe/edu/idat/appdemo/Producto.java,d\e\de3d6b0e1fce96673ac04b3ac13c70a348e2128c
+a
+1app/src/main/java/pe/edu/idat/appdemo/Producto.kt,a\e\ae87198924a076dea58ea0a7ac65a7a8542ce827
